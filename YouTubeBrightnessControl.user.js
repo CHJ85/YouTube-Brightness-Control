@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            YouTube Brightness Control
 // @description     Control the video brightness level from the settings menu
-// @version         1.0
+// @version         1.1
 // @icon            https://cdn-icons-png.flaticon.com/512/1384/1384060.png
 // @namespace       https://github.com/CHJ85/YouTube-Brightness-Control
 // @author          CHJ85
